@@ -44,4 +44,5 @@ Apex class that formats the data to be displayed in the chart.
 
 It works by gathering all the Chart Heirarchy records needed for the requested chart, then all of the records that are represented by it. 
 The records are then organized into levels and maps to represent the heirarchal structure before being returned as chart specific JSON. 
+
 **As previously mentioned, only the treemap works with dynamic data at the moment, the others just return a set of sample data.**
