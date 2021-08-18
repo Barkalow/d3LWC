@@ -5,7 +5,7 @@ A Salesforce Lightning Web Component that displays D3 graphed data. Data relatio
 Example:
 * Account
   * Opportunity, related by AccountId field
-   * Product, related by OpportunityId field
+    * Product, related by OpportunityId field
    
 Currently only the Treemap is configured to use live data, the other charting types display sample data correctly but the backend is still needing built. 
 
