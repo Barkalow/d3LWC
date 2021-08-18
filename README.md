@@ -1,5 +1,5 @@
 # d3LWC
---- This is very much an early build, it works but could use many improvements and additions ---
+*** --- This is very much an early build, it works but could use many improvements and additions --- ***
 
 A Salesforce Lightning Web Component that displays D3 graphed data. Data relationships can be created between any objects with a lookup field between them.
 Example:
