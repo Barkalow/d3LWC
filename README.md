@@ -13,10 +13,10 @@ Improvements needed:
 * General code cleanup
 * Refactoring in some areas
 * Building chart backends
- * Line Chart
- * Bar Chart
- * Indent Tree
- * Line Chart
+  * Line Chart
+  * Bar Chart
+  * Indent Tree
+  * Line Chart
 * Implement Tidy Tree chart
 * Error Checking
 
