@@ -8,6 +8,16 @@ Example:
     * Product, related by OpportunityId field
    
 Currently only the Treemap is configured to use live data, the other charting types display sample data correctly but the backend is still needing built. 
+Improvements needed:
+* General code cleanup
+* Refactoring in some areas
+* Building chart backends
+ * Line Chart
+ * Bar Chart
+ * Indent Tree
+ * Line Chart
+* Implement Tidy Tree chart
+* Error Checking
 
 There are 3 main parts to this component:
 * Charting Custom Object 
