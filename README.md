@@ -8,6 +8,7 @@ Example:
     * Product, related by OpportunityId field
    
 Currently only the Treemap is configured to use live data, the other charting types display sample data correctly but the backend is still needing built. 
+
 Improvements needed:
 * General code cleanup
 * Refactoring in some areas
